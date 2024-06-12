@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**christybec/Christybec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Oladumoye Idowu Christiana
+I am a Student Data Analyst
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently learning how to clean, transfer, model and analyze data for business insight
+- 🌱 I’m currently working on projects to challenge myself and grow my Data Analytics and Science skills
+- 👯 I’m looking to collaborate with organizations and individuals to solve their problems while leveraging on data
+- 🤔 I’m open for Entry level Data Analyst
+- 💬 Ask me about anything on data
+- 📫 How to reach me: [Linked](https://www.linkedin.com/in/oladumoye-idowu-80534113a/)
+- 😄 Pronouns: She
+- ⚡ Fun fact: I motivate, I create and i inspire
 -->
