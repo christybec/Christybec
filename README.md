@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-##This is Oladumoye Idowu Christiana
+## This is Oladumoye Idowu Christiana
 
-##I am a Student Data Analyst
+## I am a Student Data Analyst
 
 
 - 🔭 I’m currently learning how to clean, transfer, model and analyze data for business insight
